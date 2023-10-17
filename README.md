@@ -10,4 +10,9 @@ Also keep in mind that **it will use the API Key of your OpenAI account, when it
 > I hope this code helps you for your future project, enjoy it!
 
 ## I will attach photos of how the bot responds on discord
-![That´s the Help Embed uwuwuwuw](/Examples/helpembed.png)
+
+![That´s the Help Embed uwuwuwuw](/Examples/helpembed.PNG)
+
+![a respo0o0o0o0o0o0o0o0nse uwuwuwuw](/Examples/response.PNG)
+
+![anoda responsada uwuwuwuw](/Examples/anodaone.PNG)
