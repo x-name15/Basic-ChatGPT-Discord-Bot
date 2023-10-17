@@ -1,0 +1,7 @@
+{
+    "token": "Discord Bot Token",
+    "gpt_api_key": "Api Key of ChatGPT",
+    "prefix": "Prefix | ! |",
+    "version":"Version of the Bot | 1.0",
+    "RPC": "Rich Presence of the Bot"
+  }
