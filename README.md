@@ -10,4 +10,4 @@ Also keep in mind that **it will use the API Key of your OpenAI account, when it
 > I hope this code helps you for your future project, enjoy it!
 
 ## I will attach photos of how the bot responds on discord
-
+![That´s the Help Embed uwuwuwuw](/Examples Photographs/)
