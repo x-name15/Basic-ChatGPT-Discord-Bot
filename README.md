@@ -9,7 +9,17 @@ Also keep in mind that **it will use the API Key of your OpenAI account, when it
 
 > I hope this code helps you for your future project, enjoy it!
 
-## I will attach photos of how the bot responds on discord
+### Added Docker Support!
+1.  **Run Docker Compose:**
+    ```bash
+    DISCORD_TOKEN=YourDiscordToken OPENAI_API_KEY=YourOpenAIKey docker-compose up -d
+    ```
+    * Replace `YourDiscordToken` and `YourOpenAIKey` with your actual Discord bot token and OpenAI API key.
+## Configuration
+* The `config.json` file contains non-sensitive configurations such as the bot's prefix.
+* Sensitive credentials (Discord token and OpenAI API key) are configured using environment variables directly in the `docker-compose up` command.
+
+## How the bot responds on discord?
 
 ![That´s the Help Embed uwuwuwuw](/Examples/helpembed.PNG)
 
