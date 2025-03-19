@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  bot:
+    build: .
+    image: basic-chatgpt-discord-bot
+    restart: always
+    environment:
+      DISCORD_TOKEN: ${DISCORD_TOKEN}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}

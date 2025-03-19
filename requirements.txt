@@ -1,0 +1,6 @@
+discord.py
+openai
+gTTS
+youtube_dl
+requests
+os
